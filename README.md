@@ -14,5 +14,4 @@ Apresentação de forma ilustrativa do meu currículo, experiências e históric
 ## Layout Mobile
 
 ![Imagem principal mobile](https://github.com/thiagosc121/portfolio/blob/main/Assets/Portfolio_mobile1.jpg)
-![Imagem_secundaria_mobile](https://github.com/thiagosc121/portfolio/blob/main/Assets/Portfolio_mobile2.jpg)
 
